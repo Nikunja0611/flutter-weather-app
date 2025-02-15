@@ -47,7 +47,7 @@ flutter run
 ---
 
 ## **📸 Screenshot**
- ![Weather App Screenshot](lib\SSweatherApp.png)
+ ![Weather App Screenshot](lib/SSweatherApp.png)
 
 ---
 

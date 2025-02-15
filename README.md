@@ -22,7 +22,7 @@ A simple and modern **Flutter Weather App** that fetches real-time weather data 
 ## **📦 Installation & Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/flutter-weather-app.git
+git clone https://github.com/Nikunja0611/flutter-weather-app.git
 cd flutter-weather-app
 ```
 
